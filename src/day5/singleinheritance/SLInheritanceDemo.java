@@ -1,4 +1,4 @@
-package day5.singleinheritance;
+package Day5.singleinheritance;
 
 public class SLInheritanceDemo {
 

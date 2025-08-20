@@ -1,4 +1,4 @@
-package c2tccorejava;
+package Day1;
 
 public class c2tcfirst {
 

@@ -1,5 +1,5 @@
 //Program to define Subclass Triangle
-package dayseven.overriding.v1;
+package Day7.overriding.v1;
 
 public class Triangle extends Shape {
 	private double base;

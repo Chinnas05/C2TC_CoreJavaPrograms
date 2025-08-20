@@ -1,1 +1,1 @@
-package day5.assosiation.hasa;
+package Day5.assosiation.hasa;

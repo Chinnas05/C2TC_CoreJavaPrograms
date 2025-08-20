@@ -1,4 +1,4 @@
-package com.tnsif.day6.staticvariable;
+package Day6.staticvariable;
 
 public class Employee {
 	

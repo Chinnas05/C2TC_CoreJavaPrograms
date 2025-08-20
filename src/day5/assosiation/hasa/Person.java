@@ -1,4 +1,4 @@
-package day5.assosiation.hasa;
+package Day5.assosiation.hasa;
 
 //Container class
 public class Person {

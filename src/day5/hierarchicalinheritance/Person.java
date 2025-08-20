@@ -1,4 +1,4 @@
-package day5.hierarchicalinheritance;
+package Day5.hierarchicalinheritance;
 
 public class Person {
 

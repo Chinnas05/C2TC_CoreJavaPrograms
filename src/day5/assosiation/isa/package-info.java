@@ -1,1 +1,1 @@
-package day5.assosiation.isa;
+package Day5.assosiation.isa;

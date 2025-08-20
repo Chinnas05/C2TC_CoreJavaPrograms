@@ -1,4 +1,4 @@
-package day5.assosiation.isa;
+package Day5.assosiation.isa;
 
 //Subclass inheriting from Employee
 public class Manager extends Employee {

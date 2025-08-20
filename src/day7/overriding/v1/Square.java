@@ -1,5 +1,5 @@
 //Program to define Subclass Square
-package dayseven.overriding.v1;
+package Day7.overriding.v1;
 
 
 public class Square extends Shape {

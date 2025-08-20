@@ -1,5 +1,5 @@
 //Program to demonstrate method overriding - Runtime Polymorphism
-package dayseven.overriding;
+package Day7.overriding;
 
 //subclass
 public class SBI extends RBI {

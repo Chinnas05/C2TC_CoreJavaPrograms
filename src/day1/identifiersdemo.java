@@ -1,4 +1,4 @@
-package day1;
+package Day1;
 
 public class identifiersdemo{
 	public static void main(String[] args) {

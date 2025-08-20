@@ -1,4 +1,4 @@
-package dayseven.overloading;
+package Day7.overloading;
 
 public class MethodOverloading {
 	

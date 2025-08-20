@@ -1,4 +1,4 @@
-package com.tnsif.day6.usingfinal;
+package Day6.usingfinal;
 
 public class FinalVariable {
 	

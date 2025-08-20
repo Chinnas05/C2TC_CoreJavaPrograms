@@ -1,4 +1,4 @@
-package com.tnsif.day6.staticblockmethod;
+package Day6.staticblockmethod;
 
 public class MyClassDemo {
 
