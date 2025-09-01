@@ -1,1 +1,1 @@
-package Day5.singleinheritance;
+package day5.singleinheritance;

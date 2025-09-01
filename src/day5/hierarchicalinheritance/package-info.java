@@ -1,1 +1,1 @@
-package Day5.hierarchicalinheritance;
+package day5.hierarchicalinheritance;

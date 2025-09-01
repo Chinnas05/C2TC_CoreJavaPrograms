@@ -1,4 +1,4 @@
-package Day5.assosiation.isa;
+package day5.assosiation.isa;
 
 public class IsADemo {
 	public static void main(String[] args) {
